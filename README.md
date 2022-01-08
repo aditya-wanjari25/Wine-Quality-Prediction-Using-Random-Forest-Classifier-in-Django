@@ -1,5 +1,6 @@
 # Wine-Quality-Prediction-Using-Random-Forest-Classifier-in-Django\
-Here are the screenshots of the project
-![Screenshot (267)](https://user-images.githubusercontent.com/69350192/148634250-4a401e2a-0a07-4ddc-8d81-8d1f808e7688.png)
-![Screenshot (268)](https://user-images.githubusercontent.com/69350192/148634248-5593293d-e066-43d7-b161-4bab2d27ce23.png)
+Here are the screenshots of the project:
+
+![Screenshot (269)](https://user-images.githubusercontent.com/69350192/148634464-cb27ea7b-a856-485f-a21e-cb0584999bde.png)
+![Screenshot (270)](https://user-images.githubusercontent.com/69350192/148634461-e817dc7e-57cc-4c91-bc4e-5f65514df4df.png)
 
